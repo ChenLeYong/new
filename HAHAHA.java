@@ -3,5 +3,6 @@ public class HAHAHA{
         System.out.println("Hello Chen Le");
         System.out.println("Chen Ming is here");
         System.out.println("HAHAHA!");
+        System.out.println("HEHEHEHE")
     }
 }
